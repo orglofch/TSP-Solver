@@ -25,9 +25,9 @@ Libraries: None
     other than the end. When comparing states we either select the new state (if
     it has a smaller cost) or select the new state according to a **Boltzmann probablity**.
     
-   ![cost-function](https://github.com/orglofch/TSP-Solver/blob/master/images/sa_cost.png)
+   ![cost-function](https://github.com/orglofch/TSP-Solver/blob/master/sa_cost.png)
    
    Severall cooling schedules were considered, the exponential temerature decrease performed
    the best in practice.
    
-   ![cooling-schedules](https://github.com/orglofch/TSP-Solver/blob/master/images/sa_cooling_schedule.png)
+   ![cooling-schedules](https://github.com/orglofch/TSP-Solver/blob/master/sa_cooling_schedule.png)
