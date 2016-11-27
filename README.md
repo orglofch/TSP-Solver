@@ -2,6 +2,7 @@ TSP-Solver
 ============
 
 Two variation of a travelling salesman problem solver.
+
 1. A* Search - (Slow, Accurate)
 2. Simulated Annealing - (Fast, Approximation)
 
